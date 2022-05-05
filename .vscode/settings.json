@@ -1,0 +1,11 @@
+{
+    "workbench.colorTheme": "Noctis Sereno",
+    "code-runner.clearPreviousOutput": true,
+    "code-runner.runInTerminal": true,
+    "code-runner.executorMap": {
+        "c" :"cd $dir && gcc $fileName -o D:\\Git_File\\Learn\\C-Code\\C-Code-exe\\$fileNameWithoutExt && D:\\Git_File\\Learn\\C-Code\\C-Code-exe\\$fileNameWithoutExt"
+    },
+    "editor.fontSize": 18,
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true
+}
