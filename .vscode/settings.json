@@ -3,7 +3,8 @@
     "code-runner.clearPreviousOutput": true,
     "code-runner.runInTerminal": true,
     "code-runner.executorMap": {
-        "c" :"cd $dir && gcc $fileName -o D:\\Git_File\\Learn\\C-Code\\C-Code-exe\\$fileNameWithoutExt && D:\\Git_File\\Learn\\C-Code\\C-Code-exe\\$fileNameWithoutExt"
+        "c" :"cd $dir && gcc $fileName -o D:\\Git_File\\Learn\\C_Code\\C_Code_exe\\$fileNameWithoutExt && D:\\Git_File\\Learn\\C_Code\\C_Code_exe\\$fileNameWithoutExt",
+        "cpp" :"cd $dir && gcc $fileName -o D:\\Git_File\\Learn\\C_Code\\C++_Code_exe\\$fileNameWithoutExt && D:\\Git_File\\Learn\\C_Code\\C++_Code_exe\\$fileNameWithoutExt"
     },
     "editor.fontSize": 18,
     "files.autoSave": "afterDelay",
